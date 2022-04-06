@@ -26,6 +26,6 @@ soupsieve==2.2.1
 Twisted==22.2.0
 txaio==21.2.1
 tzlocal==2.1
-ujson==4.0.2
+ujson==5.1.0
 urllib3==1.26.5
 zope.interface==5.4.0
